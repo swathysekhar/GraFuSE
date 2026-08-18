@@ -48,6 +48,4 @@ Use `src.utils.seed.set_seed()` before training and record the configuration use
 
 The original experiment notebook is retained under `notebooks/` as a reference. The modular source files are intended for reusable training and evaluation.
 
-## Citation
 
-Add the final paper citation here after publication.
